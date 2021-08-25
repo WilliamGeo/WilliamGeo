@@ -3,6 +3,7 @@ Hi there, I'm William 👋
 
 ## Computer Science Student | Archivest | Linux Enjoyer | Hobbyist Artist  
 <center><img alt="Edge Hill Logo" width="104px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png" /></center>
+
 I am a CS Student studying at [`Edge Hill University, Ormskirk`](https://www.edgehill.ac.uk/).
 I have been programming since 2016. I am abit of a data horder and like to collect and manage large amounts of it from images to literature. I have used Linux for years and know the bash terminal very well.
 
