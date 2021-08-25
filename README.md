@@ -1,7 +1,8 @@
 Hi there, I'm William 👋
 ======
 
-## Computer Science Student | Archivest | Linux Enjoyer | Hobbyist Artist
+## Computer Science Student | Archivest | Linux Enjoyer | Hobbyist Artist  
+<center><img alt="Edge Hill Logo" width="104px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png" /></center>
 I am a CS Student studying at [`Edge Hill University, Ormskirk`](https://www.edgehill.ac.uk/).
 I have been programming since 2016. I am abit of a data horder and like to collect and manage large amounts of it from images to literature. I have used Linux for years and know the bash terminal very well.
 
@@ -19,7 +20,7 @@ My goals are to:
 + Help with the OpenSource Community  
 + Find a job I enjoy
 
-<img align="left" alt="Scratch" width="26px" src="https://lh3.googleusercontent.com/proxy/ZcsC0uM2fEok9cx0blFC_cD5cQmJIp9aJgYxViclKWBi1L_r4z1_-dxWCE6yExKeYyqMq96VHgvl3omysSO2TN3W3WZY50YAr34D88sa3eS_" />
+<img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -35,4 +36,4 @@ My goals are to:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Tux, Linux" width="26px" src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />v
