@@ -1,7 +1,7 @@
 Hi there, I'm William 👋
 ======
 
-## Computer Science Student | Archivest | Linux Enjoyer | Hobbyist Artist  
+## Computer Science Student | Game Software Engineer | Archivest | Linux Enjoyer | Hobbyist Artist  
 <center><img alt="Edge Hill Logo" width="104px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png" /></center>
 
 I am a CS Student studying at [`Edge Hill University, Ormskirk`](https://www.edgehill.ac.uk/).
@@ -14,12 +14,10 @@ I started to use Linux more and more, using the various commands built in the ba
 
 In University I revisited Python as part as my foundation year and learnt some Java. In these courses I was to both work independently and as part of a small group to help us work as more of a collective.  
 
-## My Goals
-My goals are to:  
-+ Finish my Hons  
-+ Learn C/C++/C# Religiously (either, preferably C++)  
-+ Help with the OpenSource Community  
-+ Find a job I enjoy
+## Current
+- Learning C/C++/C#
+- Learn a Game Engine to a professional level
+- Help with the Open Source Community
 
 <img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -31,10 +29,3 @@ My goals are to:
 <img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <br>
-<br>
-
-## Tools I use
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Tux, Linux" width="26px" src="https://assets.stickpng.com/images/58480e82cef1014c0b5e4927.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />v
