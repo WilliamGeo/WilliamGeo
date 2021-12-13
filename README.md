@@ -2,9 +2,9 @@ Hi there, I'm William 👋
 ======
 
 ## Computer Science Student | Game Software Engineer | Archivest | Linux Enjoyer | Hobbyist Artist  
-<center><img alt="Edge Hill Logo" width="104px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png" /></center>
+<center><img alt="Edge Hill Logo" width="52px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png"/></center>
 
-I am a CS Student studying at [`Edge Hill University, Ormskirk`](https://www.edgehill.ac.uk/).
+I am a CS Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/).
 I have been programming since 2016. I am abit of a data horder and like to collect and manage large amounts of it from images to literature. I have used Linux for years and know the bash terminal very well.
 
 ## My Journey
@@ -12,7 +12,14 @@ I started programming in Scratch at a very early age learning it in IT classes i
 
 I started to use Linux more and more, using the various commands built in the bash and some included with package managers. I have used a small amount of Shell Script to automate clearing up files on the Linux system to reduce memory.  
 
-In University I revisited Python as part as my foundation year and learnt some Java. In these courses I was to both work independently and as part of a small group to help us work as more of a collective.  
+In University I revisited Python as part as my foundation year and learnt some Java. In these courses I was to both work independently and as part of a small group to help us work as more of a collective.
+
+------
+### Contact Me
+
+<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)
+
+------
 
 ## Current
 - Learning C/C++/C#
