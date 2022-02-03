@@ -12,19 +12,19 @@ I started programming in Scratch at a very early age learning it in IT classes i
 
 I started to use Linux more and more, using the various commands built in the bash and some included with package managers. I have used a small amount of Shell Script to automate clearing up files on the Linux system to reduce memory.  
 
-In University I revisited Python as part as my foundation year and learnt some Java. In these courses I was to both work independently and as part of a small group to help us work as more of a collective.
+In University I revisited Python as part as my foundation year and learnt some Java. Further in my course I was taught how to use C# and C#/Unity. More information is on my website [here]().
 
 ## Certification
-| Certification                                   | Abbreviation  | Grade       | Complete Date |
-| ----------------------------------------------- | ------------- | ----------- | ------------- |
-| Linux Foundation Certified System Administrator | LFCS          | N/A         | 00/00/0000    |
-| Red Hat Certified Engineer                      | RHCE          | N/A         | 00/00/0000    |
-| Oracle Linux Certification                      | ORACLE        | N/A         | 00/00/0000    |
-| Linux Professional Institute Certification      | LPI           | N/A         | 00/00/0000    |
-| CompTIA Linux+                                  | CompTIA+      | N/A         | 00/00/0000    |
-| Giac Certified Unix Security Administrator      | GCUX          | N/A         | 00/00/0000    |
-| International Software Testing Qualification    | GISTQ         | N/A         | 00/00/0000    |
-
+| Certification                                   | Abbreviation  | Grade       | Complete Date | Link  |
+| ----------------------------------------------- | ------------- | ----------- | ------------- | ----- |
+| Azure Fundamentals                              | AZ-900        | Pending...  | 05/04/2022    | [Link](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) |
+| Linux Foundation Certified System Administrator | LFCS          | N/A         | 00/00/0000    | [Link]() |
+| Red Hat Certified Engineer                      | RHCE          | N/A         | 00/00/0000    | [Link]() |
+| Oracle Linux Certification                      | ORACLE        | N/A         | 00/00/0000    | [Link]() |
+| Linux Professional Institute Certification      | LPI           | N/A         | 00/00/0000    | [Link]() |
+| CompTIA Linux+                                  | CompTIA+      | N/A         | 00/00/0000    | [Link]() |
+| Giac Certified Unix Security Administrator      | GCUX          | N/A         | 00/00/0000    | [Link]() |
+| International Software Testing Qualification    | GISTQ         | N/A         | 00/00/0000    | [Link]() |
 ------
 ### Contact Me
 
