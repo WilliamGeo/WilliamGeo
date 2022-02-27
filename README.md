@@ -14,6 +14,29 @@ I started to use Linux more and more, using the various commands built in the ba
 
 In University I revisited Python as part as my foundation year and learnt some Java. Further in my course I was taught how to use C# and C#/Unity. More information is on my website [here]().
 
+## My Journey
+| Course Task                                                 | Abbreviation  | Grade       |
+| ----------------------------------------------------------- | ------------- | ----------- |
+| 2020_CIS1107 Foundations of Computer Science                | CIS1107       |             |
+| 2020_CIS1108 Digital World Information Systems & Desgin     | CIS1108       |             |
+| 2020_CIS1109 Digital World Computer & Architecture Networks | CIS1109       |             |
+| 2020_CIS1110 Web Design & Development                       | CIS1110       |             |
+| 2020_CIS1111 Programming Concept to Construction 1          | CIS1111       |             |
+| 2020_CIS1112 Programming Concept to Construction 2          | CIS1112       |             |
+|                                                             |               |             |
+| 2021_CIS2147 Programming Languages Theory to Practice       | CIS2147       |             |
+| 2021_CIS2150 Games Engines                                  | CIS2150       |             |
+| 2021_CIS2155 Mobile Apps                                    | CIS2155       |             |
+| 2021_CIS2160 Computer Graphics & Modelling                  | CIS2160       |             |
+| 2021_CIS2161 Digital Design & Production                    | CIS2161       |             |
+| 2021_CIS2162 Employability                                  | CIS2162       |             |
+|                                                             |               |             |
+| 2022_CIS3140 Research & Development Project                 | CIS3140       |             |
+| 2022_CIS3147 Streaming Media                                | CIS3147       |             |
+| 2022_CIS3149 Interface Programming                          | CIS3149       |             |
+| 2022_CIS3156 Intelligent Systems                            | CIS3156       |             |
+| 2022_CIS3161 Research & Development Methods                 | CIS3161       |             |
+
 ## Certification
 | Certification                                   | Abbreviation  | Grade       | Complete Date | Link  |
 | ----------------------------------------------- | ------------- | ----------- | ------------- | ----- |
@@ -28,14 +51,10 @@ In University I revisited Python as part as my foundation year and learnt some J
 ------
 ### Contact Me
 
-<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)
+<img align="left" alt="Website" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" /> [Website](https://www.WilliamGeo.github.io) | 
+<img align="left" alt="LinkedIn" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /> [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/) 
 
 ------
-
-## Current
-- Learning C/C++/C#
-- Learn a Game Engine to a professional level
-- Help with the Open Source Community
 
 <img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
