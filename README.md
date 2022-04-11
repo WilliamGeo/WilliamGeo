@@ -34,7 +34,7 @@ In University I revisited Python as part as my foundation year and learnt some J
 
 ### Contact Me
 
-* <img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://www.WilliamGeo.github.io)
+* <img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://williamgeo.github.io/)
 
 * <img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" /> | [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)
 
