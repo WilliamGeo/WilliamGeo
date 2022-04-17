@@ -4,7 +4,7 @@ Hi there, I'm William 👋
 ## Computing (Games) Student at Edge Hill University
 
 I am a CS Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/).
-I have been a hobbiest programmer since 2016. I am a bit of a data horder and like to collect and manage large amounts of it from images to literature. I have used Linux for years and know the bash terminal very well.
+I have been a hobbiest programmer since 2016. I am a bit of a data horder and like to collect and manage large amounts of it from images to literature. I have used Linux for years and know the bash terminal very well. I am currently an Intern at a games company based in FL,US as a software developer.
 
 <img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
