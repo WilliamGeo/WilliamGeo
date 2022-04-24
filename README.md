@@ -1,17 +1,17 @@
-Hi there, I'm William 👋
+Hi there, I'm Koby 👋
 ======
 
-## Computing (Games) Student at Edge Hill University
+### Computing (Games) Student at Edge Hill University
 
-I am a CS Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/).
-I have been a hobbiest programmer since 2016. I am a bit of a data horder and like to collect and manage large amounts of it from images to literature. I have used Linux for years and know the bash terminal very well. I am currently an Intern at a games company based in FL,US as a software developer.
+Hello, I am Koby (William). I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK. Currently working as an Intern at a Game Studio based in the United States.<br>
 
 <img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Cardinal Newman" width="26px" src="https://www.cardinalnewman.ac.uk/wp-content/themes/cncollege/images/logo-2.jpg" />
+<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
+<img align="left" alt="Cardinal Newman" width="26px" src="https://pbs.twimg.com/profile_images/1145635848714629120/UMeSn0A6_400x400.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Visual Basic" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" />
 <img align="left" alt="Edge Hill Logo" width="26px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png"/>
@@ -31,6 +31,10 @@ I started programming in Scratch at a very early age learning it in IT classes i
 I started to use Linux more and more, using the various commands built in the bash and some included with package managers. I have used a small amount of Shell Script to automate clearing up files on the Linux system to reduce memory.  
 
 In University I revisited Python as part as my foundation year and learnt some Java. Further in my course I was taught how to use C# and C#/Unity. More information is on my website [here]().
+
+During my time at University I was lucky enough to be a part of a gaming studio, although small the small community of staff were eager and experienced in their fields.
+
+More info can be found on the website below.
 
 ### Contact Me
 
