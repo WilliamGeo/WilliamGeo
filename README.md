@@ -38,14 +38,13 @@ More info can be found on the website below.
 
 ### Contact Me
 
-* <img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://williamgeo.github.io/)
-
-* <img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" /> | [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)
-
-* <img align="left" alt="StackOverflow" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" /> | [StackOverflow](https://stackoverflow.com/users/17517099)
-
-* <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" /> | [GitHub](https://github.com/WilliamGeo)
-
-* <img align="left" alt="Codecdemy" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codecademy-512.png" /> | [Codecademy](https://www.codecademy.com/profiles/WilliamGeo)
+| Logo | Link | Username |
+|:-----|-----:|:--------:|
+|<img align="left" alt="Codecdemy" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codecademy-512.png" />|[Codecademy](https://www.codecademy.com/profiles/WilliamGeo)| WilliamGeo |
+|<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" />|[GitHub](https://github.com/WilliamGeo)| WilliamGeo |
+|<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" /> | [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)| williamgeo1 |
+|<img align="left" alt="StackOverflow" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" /> | [StackOverflow](https://stackoverflow.com/users/17517099)| WilliamGeo |
+|<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" /> | [Twitter](https://twitter.com/WilliamGoGo_)| WilliamGoGo_ |
+|<img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://williamgeo.github.io/)| N/A |
 
 ------
