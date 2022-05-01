@@ -46,4 +46,6 @@ More info can be found on the website below.
 
 * <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" /> | [GitHub](https://github.com/WilliamGeo)
 
+* <img align="left" alt="Codecdemy" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codecademy-512.png" /> | [Codecademy](https://www.codecademy.com/profiles/WilliamGeo)
+
 ------
