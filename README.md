@@ -1,9 +1,9 @@
-Hi there, I'm Koby 👋
+Hi there👋
 ======
 
 ### Computing (Games) Student at Edge Hill University
 
-Hello, I am Koby (William). I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK. Currently working as an Intern at a Game Studio based in the United States.<br>
+Hello, I am William. I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK. Currently working as an Intern at a Game Studio based in the United States.<br>
 
 <img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
