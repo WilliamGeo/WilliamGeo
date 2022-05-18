@@ -41,10 +41,11 @@ More info can be found on the website below.
 | Logo | Link | Username |
 |:-----|-----:|:--------:|
 |<img align="left" alt="Codecdemy" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codecademy-512.png" />|[Codecademy](https://www.codecademy.com/profiles/WilliamGeo)| WilliamGeo |
+|<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/discord.svg" /> | [Discord](https://discord.com)| WilI#6965 |
 |<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" />|[GitHub](https://github.com/WilliamGeo)| WilliamGeo |
 |<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" /> | [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)| williamgeo1 |
 |<img align="left" alt="StackOverflow" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" /> | [StackOverflow](https://stackoverflow.com/users/17517099)| WilliamGeo |
 |<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" /> | [Twitter](https://twitter.com/WilliamGoGo_)| WilliamGoGo_ |
-|<img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://williamgeo.github.io/)| N/A |
+|<img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://williamgeo.github.io/)| |
 
 ------
