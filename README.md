@@ -1,51 +1,25 @@
-Hi there👋
-======
+# Hi 👋 My name is William
 
-### Computing (Games) Student at Edge Hill University
+## Software Developer
 
-Hello, I am William. I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK. Currently working as an Intern at a Game Studio based in the United States.<br>
+Hello, I am William. I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK.<br>
 
-<img align="left" alt="Scratch" width="26px" src="https://test.scratch-wiki.info/w/images/f/f9/Scratch_Cat.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" />
-<img align="left" alt="Cardinal Newman" width="26px" src="https://pbs.twimg.com/profile_images/1145635848714629120/UMeSn0A6_400x400.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="Visual Basic" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/1200px-VB.NET_Logo.svg.png" />
-<img align="left" alt="Edge Hill Logo" width="26px" src="https://dentonarnold-ehu.netlify.app/images/ehu-logo.png"/>
-<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="GoDot" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" />
-<img align="left" alt="C Sharp" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-<br> 
-<br>
+*   🌍  I'm based in [Manchester, UK](https://en.wikipedia.org/wiki/Manchester)
+*   🖥️  See my portfolio at [github.com](http://williamgeo.github.io/)
+*   ✉️  You can contact me at [williamgeo@protonmail.com](mailto:williamgeo@protonmail.com)
+*   🧠  I'm learning Node.js
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=WilliamGeo&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamGeo&theme=blue-green)
+### Skills
 
-## My Journey
-I started programming in Scratch at a very early age learning it in IT classes in High School and then taking it outside the classroom to further develop my understanding of Programming theory. Once I had a good enough understanding I went on to develop little websites using HTML, CSS and JavaScript. Once I had a good enough understanding I started to learn some node.js which then developed into learning some basic Python. I would then use Visual Basic in some College courses as part of some set assignments. I would use Python more religiously when doing work experience, which also developed my love for Linux. The project was to develop a facial recognition device using the [OpenAI](https://github.com/opencv/opencv).  
+<p align="left"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a></p>
 
-I started to use Linux more and more, using the various commands built in the bash and some included with package managers. I have used a small amount of Shell Script to automate clearing up files on the Linux system to reduce memory.  
+### Socials
+<p align="left"> <a href="https://discord.com/users/WilI#6965" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/WilliamGeo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/williamgeo1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/WilliamGeo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/WilliamGoGo_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-In University I revisited Python as part as my foundation year and learnt some Java. Further in my course I was taught how to use C# and C#/Unity. More information is on my website [here]().
+### Badges
 
-During my time at University I was lucky enough to be a part of a gaming studio, although small the small community of staff were eager and experienced in their fields.
+<b>My GitHub Stats</b>
 
-More info can be found on the website below.
+<a href="http://www.github.com/WilliamGeo"><img src="https://github-readme-stats.vercel.app/api?username=WilliamGeo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ec4899&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="WilliamGeo's GitHub stats" /></a>
 
-### Contact Me
-
-| Logo | Link | Username |
-|:-----|-----:|:--------:|
-|<img align="left" alt="Codecdemy" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/codecademy-512.png" />|[Codecademy](https://www.codecademy.com/profiles/WilliamGeo)| WilliamGeo |
-|<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/discord.svg" /> | [Discord](https://discord.com)| WilI#6965 |
-|<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" />|[GitHub](https://github.com/WilliamGeo)| WilliamGeo |
-|<img align="left" alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin-in.svg" /> | [LinkedIn Page](https://www.linkedin.com/in/williamgeo1/)| williamgeo1 |
-|<img align="left" alt="StackOverflow" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/stack-overflow.svg" /> | [StackOverflow](https://stackoverflow.com/users/17517099)| WilliamGeo |
-|<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" /> | [Twitter](https://twitter.com/WilliamGoGo_)| WilliamGoGo_ |
-|<img align="left" alt="Website" width="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/globe.svg" /> | [Website](https://williamgeo.github.io/)| |
-
-------
+<a href="http://www.github.com/WilliamGeo"><img src="https://activity-graph.herokuapp.com/graph?username=WilliamGeo&bg_color=0f172a&color=ec4899&line=a855f7&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
