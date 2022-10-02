@@ -5,9 +5,9 @@
 Hello, I am William. I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK.<br>
 
 *   🌍  I'm based in [Manchester, UK](https://en.wikipedia.org/wiki/Manchester)
-*   🖥️  See my portfolio at [github.com](http://williamgeo.github.io/)
+*   🖥️  See my portfolio at [georgeson.dev](http://will.georgeson.dev)
 *   ✉️  You can contact me at [williamgeo@protonmail.com](mailto:williamgeo@protonmail.com)
-*   🧠  I'm learning Node.js
+*   🧠  I'm learning Node.js, ReactJS & Rust
 
 ### Skills
 
