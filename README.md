@@ -2,7 +2,7 @@
 
 ## Software Developer
 
-Hello, I am William. I am a Computer Science Student studying at [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK.<br>
+Hello, I am William. I am a Computiung Graduate from [Edge Hill University, Ormskirk](https://www.edgehill.ac.uk/), UK.<br>
 
 *   🌍  I'm based in [Manchester, UK](https://en.wikipedia.org/wiki/Manchester)
 *   🖥️  See my portfolio at [georgeson.dev](http://will.georgeson.dev)
